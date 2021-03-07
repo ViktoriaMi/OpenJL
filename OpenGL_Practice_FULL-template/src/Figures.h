@@ -6,7 +6,7 @@
 
 using namespace glm;
 
-// данные о вершинах
+// данные о вершинах blgyfyu
 int triangleVertexCount = 3;
 int cubeVertexCount = 3 * 2 * 6;
 Vertex triangleVertexes[] = {
